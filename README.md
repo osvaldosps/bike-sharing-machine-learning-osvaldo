@@ -1,4 +1,4 @@
-Bike Rental Prediction with Machine Learning for a Bike-Sharing Business
+# Bike Rental Prediction with Machine Learning for a Bike-Sharing Business
 
 Bike-sharing system adalah sistem generasi terbaru dari bisnis persewaan sepeda tradisional di mana seluruh proses, mulai dari membership, penyewaan sepeda, dan pengembalian sepeda tersebut, telah menjadi otomatis. Melalui sistem ini, pengguna dapat dengan mudah menyewa sepeda dari posisi tertentu dan melakukan pengembalian di posisi lain. Saat ini, terdapat lebih dari 500 program *bike-sharing* di seluruh dunia dengan lebih dari 500 ribu sepeda tersedia untuk digunakan.
 
